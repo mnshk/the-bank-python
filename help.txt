@@ -1,0 +1,13 @@
+
+----------[ MUNISH'S BANK ]-----------
+
+h   help        Get Help
+s   signup      Create new account
+l   login       Login to your account
+o   logout      Logout of your account
+b   balance     Check your account balance
+t   transfer    Make a transaction
+d   delete      Delete Account
+x   exit        Stop the program
+
+--------------------------------------
